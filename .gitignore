@@ -6,7 +6,7 @@
 /app/build/
 /.idea/
 
-gradlew
+gradlew.sh
 gradlew.bat
 
 # Ignore Gradle GUI config
