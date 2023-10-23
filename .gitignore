@@ -1,8 +1,13 @@
 # From https://github.com/github/gitignore/blob/master/Gradle.gitignore
 .gradle
+/.gradle/
+/gradle/
 /build/
 /app/build/
 /.idea/
+
+gradlew
+gradlew.bat
 
 # Ignore Gradle GUI config
 gradle-app.setting
